@@ -1,0 +1,50 @@
+Restaurant Name: Bangalore Kitchen
+Location: Whitefield, Bangalore
+
+About Us:
+Bangalore Kitchen is a cozy restaurant located in the heart of Whitefield, Bangalore. We specialize in serving a delightful mix of traditional Indian cuisine and popular Western dishes, catering to diverse palates.
+
+Indian Menu
+Plain Dosa – ₹30
+A classic South Indian crepe made from fermented rice and lentil batter, served with coconut chutney and sambar.
+
+Akki Roti – ₹60
+A traditional Karnataka flatbread made from rice flour, finely chopped onions, carrots, and spices.
+
+Idli – ₹20
+Soft and fluffy steamed rice cakes, perfect with coconut chutney and hot sambar.
+
+Aloo Paratha – ₹40
+Whole wheat flatbread stuffed with spiced mashed potatoes, served with pickle and yogurt.
+
+Poha – ₹30
+A light and healthy dish made from flattened rice, cooked with onions, potatoes, and aromatic spices.
+
+Western Menu
+Pancakes – ₹70
+Fluffy pancakes served with butter and maple syrup.
+
+Sandwich – ₹50
+Choice of grilled or cold sandwich with fresh vegetables and cheese.
+
+Oatmeal with Honey – ₹50
+Warm oatmeal topped with a drizzle of honey and seasonal fruits.
+
+Waffles – ₹50
+Crispy waffles served with whipped cream and chocolate sauce.
+
+Beverages
+Pepsi – ₹40
+Coke – ₹40
+Fresh Lime Soda – ₹35
+Masala Chai – ₹20
+Filter Coffee – ₹25
+Specials
+Masala Dosa – ₹50
+Crispy dosa filled with a spiced potato mixture, served with chutneys and sambar.
+
+Butter Chicken – ₹150
+Tender chicken cooked in a creamy tomato gravy, flavored with butter and spices.
+
+Garlic Naan – ₹30
+Soft leavened flatbread topped with garlic and coriander.
